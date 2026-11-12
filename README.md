@@ -1,27 +1,27 @@
 # mk96-ai
 
-Proyectos de inteligencia artificial.
+AI projects and Claude Code tools.
 
-Este repositorio es solo un índice. El código vive en la organización de GitHub **[mk96-ai](https://github.com/mk96-ai)**.
+This repository is only an index. The code lives in the GitHub organization **[mk96-ai](https://github.com/mk96-ai)**.
 
-## Repositorios
+## Repositories
 
 <!-- projects:start -->
 ### mk-ai-claude-yt-plugin
 
-Sin descripción.
+Claude Code plugin (mk-yt) that turns long videos into vertical 9:16 shorts, with subtitles and speaker tracking.
 
-[Ver repositorio](https://github.com/mk96-ai/mk-ai-claude-yt-plugin)
+[View repository](https://github.com/mk96-ai/mk-ai-claude-yt-plugin)
 
 ### mk96-ai-claude-env
 
-Claude Code environment of Markes96, synced by the mk96-env plugin
+Markes96's Claude Code setup: global instructions, rules, skills, commands and hooks. Written and read by the mk96-env plugin.
 
-[Ver repositorio](https://github.com/mk96-ai/mk96-ai-claude-env)
+[View repository](https://github.com/mk96-ai/mk96-ai-claude-env)
 
 ### mk96-ai-claude-env-plugin
 
-Claude Code plugin (mk96-env): portable Claude Code environment synced between machines through git
+Claude Code plugin (mk96-env) that exports and imports your Claude Code setup through a git repository: instructions, rules, skills, commands, hooks and plugins.
 
-[Ver repositorio](https://github.com/mk96-ai/mk96-ai-claude-env-plugin)
+[View repository](https://github.com/mk96-ai/mk96-ai-claude-env-plugin)
 <!-- projects:end -->
